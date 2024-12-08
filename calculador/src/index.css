@@ -1,0 +1,12 @@
+body {
+  font: optional;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  color: #d3cccc;
+  background-color: rgb(34, 34, 33);
+  box-shadow: 3px 3px 5px 5px ;
+}

@@ -1,0 +1,29 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "michael david",
+      "email": "michaeldavid@hotmail.com"
+    },
+    {
+      "id": 2,
+      "name": "rauqelvitori",
+      "email": "raquelvitoria@hotmail.com"
+    },
+    {
+      "name": "sadfgfh",
+      "email": "assdfg",
+      "id": 4
+    },
+    {
+      "name": "userAdmin",
+      "email": "michael.devid@hotmail.com",
+      "id": 5
+    },
+    {
+      "name": "userAdmin",
+      "email": "assdfg",
+      "id": 6
+    }
+  ]
+}
